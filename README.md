@@ -1,16 +1,5 @@
-# flutter_firebase_authentication
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+การใช้งานแอปพลิเคชั่น Flutter Firebase Auth
+1. กดที่เมนู Create Account ที่หน้าล็อกอิน เพื่อทำการสมัครบัญชีโดยใช้ Gmail เป็นบัญชีในการสมัคร และทำการตั้งรหัสผ่านให้เรียบร้อย
+2. หลังจากทำการสมัครเสร็จแล้วก็สามารถกลับไปหน้าล็อกอิน เพื่อทำการเข้าสู่ระบบ
+3. เมื่อเข้าสู่ระบบแล้วก็จะเข้าไปสู่หน้า Home Page
+4. กรณีที่ลืมรหัสผ่านให้กดเมนู Forgot Password ที่หน้าล็อกอิน เพื่อไปที่หน้ารีเซ็ตรหัสผ่าน ทำการใส่ Gmail ที่สมัครแล้วกดปุ่ม Reset Password ระบบก็จะส่งลิงค์การเปลี่ยนรหัสผ่านไปยัง Gmail นั้นๆ
